@@ -49,7 +49,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-repo/iedr-data-pipeline.git
+https://github.com/Radiat125/Rdaiat-Assessment
 cd iedr-data-pipeline
 Setup virtual environment:
 
